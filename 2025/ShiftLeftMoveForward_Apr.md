@@ -2,6 +2,9 @@
 
 ## Quality Engineering Berlin Meetup, 17.4.2025
 
+### Slides
+https://docs.google.com/presentation/d/1Wp_np5akoTIFqJeXG_kMNjkVpClEG10M5PwxFBHp5jg/edit?usp=sharing
+
 ### Sources
 - Article on Frank Pipp and the Snap-fit story at the Ford plant: https://deming.org/reflections-on-the-fabric-of-the-toyota-production-system/
 - The Chrysler Comprehensive Compensation system: origin of Xtreme Programming: 
